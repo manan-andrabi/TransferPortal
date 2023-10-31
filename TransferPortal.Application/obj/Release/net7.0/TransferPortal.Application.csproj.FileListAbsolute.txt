@@ -1,0 +1,15 @@
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\bin\Release\net7.0\TransferPortal.Application.deps.json
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\bin\Release\net7.0\TransferPortal.Application.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\bin\Release\net7.0\TransferPortal.Application.pdb
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\bin\Release\net7.0\TransferPortal.Domain.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\bin\Release\net7.0\TransferPortal.Domain.pdb
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.csproj.AssemblyReference.cache
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.AssemblyInfoInputs.cache
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.AssemblyInfo.cs
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.csproj.CoreCompileInputs.cache
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.csproj.CopyComplete
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\refint\TransferPortal.Application.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\TransferPortal.Application.pdb
+D:\logichub\c# basic\TransferPortal\TransferPortal.Application\obj\Release\net7.0\ref\TransferPortal.Application.dll

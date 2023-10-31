@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XyZemkMaRspPmZlLlj/ou+mpLzvxjXqKOBT/3Ginuow=",
+  "Source": "TransferPortal.Api",
+  "BasePath": "_content/TransferPortal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

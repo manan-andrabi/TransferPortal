@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TransferPortal.Application</id>
+    <version>1.0.0</version>
+    <authors>TransferPortal.Application</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="TransferPortal.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.13" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="xunit.extensibility.core" version="2.5.3" exclude="Build,Analyzers" />
+        <dependency id="xunit.extensibility.execution" version="2.5.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\logichub\c# basic\TransferPortal\TransferPortal.Application\bin\Debug\net7.0\TransferPortal.Application.dll" target="lib\net7.0\TransferPortal.Application.dll" />
+  </files>
+</package>

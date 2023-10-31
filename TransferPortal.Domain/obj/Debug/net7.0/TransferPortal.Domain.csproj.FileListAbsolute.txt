@@ -1,0 +1,12 @@
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\bin\Debug\net7.0\TransferPortal.Domain.deps.json
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\bin\Debug\net7.0\TransferPortal.Domain.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\bin\Debug\net7.0\TransferPortal.Domain.pdb
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.csproj.AssemblyReference.cache
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.AssemblyInfoInputs.cache
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.AssemblyInfo.cs
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.csproj.CoreCompileInputs.cache
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\refint\TransferPortal.Domain.dll
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\TransferPortal.Domain.pdb
+D:\logichub\c# basic\TransferPortal\TransferPortal.Domain\obj\Debug\net7.0\ref\TransferPortal.Domain.dll
